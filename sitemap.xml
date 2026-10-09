@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://sanelisiwedube27-tech.github.io/web-dev-part1-2/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://sanelisiwedube27-tech.github.io/web-dev-part1-2/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://sanelisiwedube27-tech.github.io/web-dev-part1-2/services.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://sanelisiwedube27-tech.github.io/web-dev-part1-2/gallery.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://sanelisiwedube27-tech.github.io/web-dev-part1-2/enquiry.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://sanelisiwedube27-tech.github.io/web-dev-part1-2/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+</urlset>

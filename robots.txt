@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanelisiwedube27-tech.github.io/web-dev-part1-2/sitemap.xml
